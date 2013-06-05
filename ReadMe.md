@@ -7,8 +7,8 @@ Game goal
 
 Controls
 -----------
-  Left - move left
-  Right - move right
+  Left - move left<br />
+  Right - move right<br />
   ESC - exit 
 
 License
@@ -29,8 +29,8 @@ Taškai matomi žaidimo lango pavadinime.
 
 Valdymas
 -----------
-  Kairė - juda kairėn
-  Dešinė - juda dešinėn
+  Kairė - juda kairėn<br />
+  Dešinė - juda dešinėn<br />
   ESC - išeiti (lango uždarymas neveikia)
 
 Licenzija
