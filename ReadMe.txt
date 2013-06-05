@@ -13,13 +13,13 @@ License:
 
 ==== LITHUANIAN ====
 
-Zaidimo tikslas - kiek galima ilgiau issilaikyti ir surinkti kiek galima daugiau tasku.
-Taskai matomi zaidimo lango pavadinime.
+Žaidimo tikslas - kiek galima ilgiau išsilaikyti ir surinkti kiek galima daugiau taškų.
+Taškai matomi žaidimo lango pavadinime.
 
 Valdymas: 
-  Kaire - juda kairen
-  Desine - juda desinen
-  ESC - iseiti (lango uzdarymas neveikia)
+  Kairė - juda kairėn
+  Dešinė - juda dešinėn
+  ESC - išeiti (lango uždarymas neveikia)
 
 Licenzija:
-  Skaitykite License.txt failiuk� (kol kas tik angl� kalba)
+  Skaitykite License.txt failiuką (kol kas tik anglų kalba)
