@@ -1,7 +1,7 @@
 # Stupid Fall
 
- * [English / Anglų k.](#English)
- * [Lithuanian / Lietuvių k.](#Lithuanian)
+ * [English / Anglų k.](#english)
+ * [Lithuanian / Lietuvių k.](#lithuanian)
 
 ![^_^](https://raw.github.com/MekDrop/StupidFall/master/screenshot.png)
 
