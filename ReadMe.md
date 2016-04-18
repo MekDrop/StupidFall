@@ -11,9 +11,11 @@
 ### Game goal
   Try to stay alive as long as possible.
 ### Controls
-  Left - move left<br />
-  Right - move right<br />
-  ESC - exit 
+| Key           | Action        |
+| :------------ | ------------- |
+| Left          | moves left    |
+| Right         | moves right   |
+| ESC           | exit          |
 ### License
   Please, read [License.txt file](https://github.com/MekDrop/StupidFall/blob/master/License.txt) :)
   
@@ -24,8 +26,10 @@
 Kiek galima ilgiau išsilaikyti ir surinkti kiek galima daugiau taškų.
 Taškai matomi žaidimo lango pavadinime.
 ### Valdymas
-  Kairė - juda kairėn<br />
-  Dešinė - juda dešinėn<br />
-  ESC - išeiti (lango uždarymas neveikia)
+| Mygtukas      | Veiksmas                                        |
+| :------------ | ----------------------------------------------- |
+| Kairė         | juda kairėn                                     |
+| Dešinė        | juda dešinėn                                    |
+| ESC           | išeinama iš žaidimo (lango uždarymas neveikia)  |
 ### Licenzija
   Skaitykite [License.txt failiuką](https://github.com/MekDrop/StupidFall/blob/master/License.txt) (kol kas tik anglų kalba)
