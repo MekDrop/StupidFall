@@ -1,5 +1,5 @@
+[![License](https://img.shields.io/github/license/MekDrop/StupidFall.svg?maxAge=2592000)](License.txt) ![GitHub release](https://img.shields.io/github/release/MekDrop/StupidFall.svg?maxAge=2592000)
 # Stupid Fall
-
  * [English / Anglų k.](#english)
  * [Lithuanian / Lietuvių k.](#lithuanian)
 
