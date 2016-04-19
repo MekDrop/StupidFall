@@ -16,8 +16,6 @@
 | Left          | moves left    |
 | Right         | moves right   |
 | ESC           | exit          |
-### License
-  Please, read [License.txt file](https://github.com/MekDrop/StupidFall/blob/master/License.txt) :)
   
 ---
 
@@ -31,5 +29,3 @@ Taškai matomi žaidimo lango pavadinime.
 | Kairė         | juda kairėn                                     |
 | Dešinė        | juda dešinėn                                    |
 | ESC           | išeinama iš žaidimo (lango uždarymas neveikia)  |
-### Licenzija
-  Skaitykite [License.txt failiuką](https://github.com/MekDrop/StupidFall/blob/master/License.txt) (kol kas tik anglų kalba)
