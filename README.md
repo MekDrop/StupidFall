@@ -3,7 +3,7 @@
  * [English / Anglų k.](#english)
  * [Lithuanian / Lietuvių k.](#lithuanian)
 
-![^_^](https://raw.github.com/MekDrop/StupidFall/master/screenshot.png)
+![Screenshot](https://raw.github.com/MekDrop/StupidFall/master/screenshot.png)
 
 ---
 
